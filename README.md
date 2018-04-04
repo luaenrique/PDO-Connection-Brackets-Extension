@@ -1,7 +1,8 @@
 # PDO Connection Brackets Extension
+[🐘] This repository contains an extension developed to help bracket users to create their pdo connections.
+
 
 I was always interested in create something for an open source software, so I choosed brackets to do it =).
-[🐘] This repository contains an extension developed to help bracket users to create their pdo connections.
 
 # Why Brackets?
 Particularly, I really like web development, and as brackets is a text editor used in the most part of the time for web development
