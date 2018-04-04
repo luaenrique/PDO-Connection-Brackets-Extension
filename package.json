@@ -5,7 +5,7 @@
     "homepage": "https://github.com/luaenrique/PDO-Connection-Brackets-Extension",
     "version": "1.0.0",
     "author": "Luã Enrique Zangrande <lua.enriquezan@gmail.com> (http://luaenrique.com.br)",
-    "license": "LZ Studios",
+    "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
     },
