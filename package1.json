@@ -1,0 +1,18 @@
+{
+    "name": "luaenrique.generating-pdo-connection-extension",
+    "title": "PDO Connection Generator",
+    "description": "This extension will help you to create your PDO connection file, it will turns it a really easy work. Check out my Github for the instructions.",
+    "homepage": "https://github.com/luaenrique/PDO-Connection-Brackets-Extension",
+    "version": "2.0.0",
+    "author": "Luã Enrique Zangrande <lua.enriquezan@gmail.com> (http://luaenrique.com.br)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [ "en", "pt"],
+    "package-i18n": {
+        "fr": {
+            "description": "Essa extensão irá lhe auxiliar na criação de uma conexão PDO com PHP. Dê uma olhada no meu Github para obter instruções de uso =)."
+        }
+    }
+}
