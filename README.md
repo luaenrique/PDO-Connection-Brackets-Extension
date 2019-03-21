@@ -32,4 +32,4 @@ And after press Alt + T, you will get this code:
 
 ![alt text](https://i.imgur.com/1hJIqXI.png)
 
-Please, leave a feedback, so I will know what I can improve in this. =)
+Please, leave a feedback, so I will know what to improve here. =)
